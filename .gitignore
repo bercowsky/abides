@@ -11,3 +11,6 @@ venv/
 .idea/
 .ipynb/
 .ipynb_checkpoints/
+.DS_Store
+util/.DS_Store
+util/plotting/.DS_Store
